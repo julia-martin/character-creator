@@ -7,6 +7,7 @@
 .maxWidthWrapper {
   display: inline-block;
   max-width: 1024px;
+  position: relative;
 }
 
 .header {
@@ -45,5 +46,4 @@
   bottom: 0;
   height: 40%;
   width: 100%;
-  z-index: -1;
 }
