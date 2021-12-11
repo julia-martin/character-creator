@@ -41,7 +41,7 @@
 
 .grayBar {
   background-color: hsl(195deg, 20%, 86%);
-  position: absolute;
+  position: fixed;
   bottom: 0;
   height: 40%;
   width: 100%;
